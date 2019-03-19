@@ -1,0 +1,1 @@
+com.jemstep.acceptancetest.api.OAuthControllerAcceptanceTest com.jemstep.acceptancetest.goals.C8144NextgenGoalsFlowSpec com.jemstep.acceptancetest.pershing.C6648PershingIndividualAndSpouseSpec com.jemstep.acceptancetest.clientservices.C5157PershingOnlyStatementsAndConfirmsSpec
